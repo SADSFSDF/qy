@@ -1,0 +1,185 @@
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+.gray {
+    color: #dbdbdb;
+}
+.margin_r {
+    margin-right: 10px;
+}
+
+.header {
+    width: 100%;
+    min-width: 1200px;
+    background-color: #343d82;
+}
+
+
+.wrap {
+    width: 1190px;
+    min-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.header .wrap {
+    background-color: #343d82;
+}
+
+.logo {
+    padding-right: 50px
+}
+
+
+.wrap_b {
+    padding: 0 15px;
+}
+.navbox{
+    list-style: none;
+
+}
+.navbox li{
+    float:left;
+
+}
+.navbox li a{
+    display: block;
+    padding-bottom: 15px;
+    line-height: 20px;
+    padding: 10px 15px;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    border-bottom:2px solid #343d82;
+}
+.activenav{
+    border-bottom:2px solid #fff;
+}
+.yuanchang {
+    padding: 15px 0;
+    font-size: 12px;
+    color: #adadad
+}
+
+.yuanchang_l span {
+    padding-right: 50px;
+}
+
+.yuanchang_r span {
+    cursor: pointer;
+    padding: 0 34px 0 25px;
+}
+
+.zhan_b {
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: url('../img/2.png') no-repeat center 20px #cea675;
+    color: #fff;
+    text-align: center;
+    padding-top: 55px;
+}
+
+.share {
+    margin-bottom: 36px
+}
+
+.share-l span {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: #fff;
+    background-image: url('../img/编组 20.png');
+    background-repeat: none;
+    color: #dddddd;
+}
+
+.share_text {
+    text-align: right;
+    color: #dddddd;
+    margin-bottom: 10px;
+}
+
+.zhan_s {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #cea675;
+    line-height: 33px;
+    text-align: center;
+    color: #fff;
+}
+
+.btn_c {
+    background: #fff;
+    color: #dbdbdb;
+    border: 1px solid #dbdbdb;
+    padding: 5px 15px;
+    margin-right: 8px;
+}
+
+.btn_sc {
+    background: url(../img/路径22.png) no-repeat 24px 10px #fff;
+    color: #dbdbdb;
+    padding: 8px 25px 8px 45px;
+    border: 1px solid #dbdbdb;
+}
+
+.warning {
+    width: 109px;
+    text-align: right;
+    display: inline-block;
+    padding: 10px 30px;
+    background: url('../img/形状22.png') no-repeat 24px 12px #fff;
+    cursor: pointer;
+}
+
+.gray_box {
+    padding:20px 0;
+    width: 100%;
+    min-width: 1200px;
+    background-color: #f6f6f6;
+}
+
+.gray_box .wrap {
+    border-radius: 5px;
+    background-color: #fff;
+}
+.btn_lxg {
+    padding: 5px 20px;
+    background: #cea672;
+    color:#fff
+}
+.btn_lxs {
+    padding: 5px 20px;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+}
+.footerimg {
+    padding:20px;
+    border-bottom:1px solid rgba(204,204,204,0.4);
+}
+.footer_b {
+    padding: 10px 20px 0 20px;
+    height:50px;
+    line-height:50px;
+}
+.footer_b span {
+    font-size:16px;
+}
+.footer_g{
+  width:292px;
+  margin-bottom: 15px;
+}
+
+span{
+    vertical-align: middle;
+}
