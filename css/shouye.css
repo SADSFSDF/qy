@@ -77,6 +77,7 @@
     color: #D3AB8B;
     font-size: 13px;
     display: inline-block;
+    font-weight: bold;
 }
 .hyInner>img{
 
@@ -85,6 +86,7 @@
 .kt{
     width: 1000px;
     margin: 0 auto;
+        margin-bottom: 50px;
 }
 .kt_header{
     margin-top: 15px;
@@ -157,17 +159,18 @@ border:1px solid rgba(225,182,102,1);
 }
 .zffs>div{
     width: 100px;
-    height: 30px;
+    height: 37px;
     border: 1px solid #e1b666;
     margin-right: 15px;
     display: inline-block;
+    vertical-align: middle;
 }
 .zffs>div img{
     width: 70px;
     display: block;
     margin: 0 auto;
     position:relative;
-    top:2px;
+    top:6px;
 }
 .yf{
     margin-top: 30px;
@@ -185,4 +188,22 @@ border:1px solid rgba(225,182,102,1);
     font-size: 14px;
 
     background:rgba(251,103,31,1);
+}
+.cz{
+    position: absolute;
+    right: 3px;
+    top:0;
+    height: 30px;
+}
+.longW{
+    width: 252px;
+}
+.rp{
+    position: absolute;
+    right: 0;
+    top:0;
+
+}
+.we{
+    font-size: 18px;
 }
