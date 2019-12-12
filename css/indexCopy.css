@@ -193,7 +193,7 @@ span{
 
 
 .searchContent{
-    height: 400px;
+    height: 500px;
     width: 100%;
     background:url(../img/bgimg.png) no-repeat center center;
     background-size:cover;
@@ -204,20 +204,20 @@ span{
     position: absolute;
     left:50%;
     top:50%;
-    margin-top: -90px;
+    margin-top: -126px;
     margin-left: -400px;
 }
 .searchBox h1{
     text-align: center;
-    font-size:28px;
+    font-size:36px;
     font-family:PingFangSC-Medium,PingFang SC;
     font-weight:500;
     color:rgba(255,255,255,1);
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
 .searchBox div:nth-of-type(1){
     width:800px;
-    height: 40px;
+    height: 50px;
     position: relative;
 }
 .searchBox div:nth-of-type(1) input{
@@ -226,7 +226,7 @@ span{
     background:#fff;
     font-weight:400;
     color:rgba(190,190,190,1);
-    font-size: 14px;
+    font-size: 20px;
     padding-left:10px;
     border-radius: 5px;
     border:none;
@@ -246,7 +246,7 @@ span{
     margin-top:20px;
 } 
 .searchBox div:nth-of-type(2) span{
-    font-size: 14px;
+    font-size: 16px;
     display: inline-block;
     margin-right: 8px;
     color: #fff
@@ -321,19 +321,19 @@ span{
 
 }
 .commonContainer >div:nth-of-type(1){
-    background:url("../img/b.jpg") no-repeat center center;
+    background:url("../img/aaa.png") no-repeat center center;
     background-size: cover;
 }
 .commonContainer >div:nth-of-type(2){
-    background:url("../img/ba.png") no-repeat center center;
+    background:url("../img/bbb.png") no-repeat center center;
     background-size: cover;
 }
 .commonContainer >div:nth-of-type(3){
-    background:url("../img/bc.png") no-repeat center center;
+    background:url("../img/aaa.png") no-repeat center center;
     background-size: cover;
 }
 .commonContainer >div:nth-of-type(4){
-    background:url("../img/b.jpg") no-repeat center center;
+    background:url("../img/bbb.png") no-repeat center center;
     background-size: cover;
 }
 
@@ -422,13 +422,13 @@ span{
 .d1{
     width: 100%;
     height: 150px;
-    background:url("../img/b.jpg") no-repeat center center;
+    background:url("../img/aaa.png") no-repeat center center;
     background-size: 100% 100%;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
 }
 .d2{
-    background:url("../img/ba.png") no-repeat center center;
+    background:url("../img/bbb.png") no-repeat center center;
     background-size: 100% 100%;
     width: 100%;
     height: 150px;
@@ -436,7 +436,7 @@ span{
     border-top-right-radius: 4px;
 }
 .d3{
-    background:url("../img/bc.png") no-repeat center center;
+    background:url("../img/aaa.png") no-repeat center center;
     background-size: 100% 100%;
     width: 100%;
     height: 150px;
@@ -444,7 +444,7 @@ span{
     border-top-right-radius: 4px;
 }
 .d4{
-    background:url("../img/b.jpg") no-repeat center center;
+    background:url("../img/bbb.png") no-repeat center center;
     background-size: 100% 100%;
     width: 100%;
     height: 150px;
